@@ -55,7 +55,7 @@ social-reading-network/
 │ └── dados_leitura.csv
 │
 ├── notebooks/
-│ └── analise_rede_leitura.ipynb
+│ └── Rede_Social_Leitura.ipynb
 │
 └── README.md
 ---
